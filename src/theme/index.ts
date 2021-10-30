@@ -9,7 +9,7 @@ export const COLORS = {
 };
 
 export const FONTS = {
-  body: 'Roboto Condensed',
+  body: 'Asap',
 };
 
 const overrides = {
